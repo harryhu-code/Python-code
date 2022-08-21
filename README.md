@@ -1,3 +1,3 @@
 # Python-code
 
-Crexting a new branch is quick
+Crexting a new branch is quick and simple.
